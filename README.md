@@ -49,12 +49,6 @@ python app.py
 - Use `PNG` or `BMP` for encoded output.
 - Do not save the encoded image as `JPEG`, because JPEG compression can damage hidden data.
 
-## GitHub Showcase Tips
-
-- Add a screenshot of the GUI to this README.
-- Include a short demo GIF if you want the project page to stand out more.
-- Mention that the project combines steganography, encryption, GUI development, and validation logic.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
